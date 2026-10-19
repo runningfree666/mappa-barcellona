@@ -148,7 +148,7 @@ function mostra(p, zoom) {
   map.setView(map.unproject(pt, z), z);
 }
 const dist = p => me ? ` · ${km(me, p).toFixed(1).replace(".", ",")} km` : "";
-const visibile = p => attivi.has(p.tipo) && (!zona || p.zona === zona);
+const visibile = p => (p.tipi || [p.tipo]).some(t => attivi.has(t)) && (!zona || p.zona === zona);
 
 // percorso intero: zoom sulla linea (spazio in basso per la scheda), partenza 🟢 e arrivo 🏁
 function percorso(p) {
