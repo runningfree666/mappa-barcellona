@@ -210,7 +210,8 @@ function inquadra() {
 const zonaEl = document.getElementById("zona");
 zonaEl.onchange = () => { zona = zonaEl.value; disegna(); inquadra(); };
 
-fetch("posti.json").then(r => r.json()).then(d => {
+// no-store: dopo ogni aggiornamento della mappa niente elenco vecchio dalla cache (GitHub Pages: 10 min)
+fetch("posti.json", {cache: "no-store"}).then(r => r.json()).then(d => {
   posti = d;
   [...new Set(d.map(p => p.zona))].forEach(z => zonaEl.add(new Option(z, z)));
   disegna();
