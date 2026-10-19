@@ -11,7 +11,8 @@
   "lat": 41.38384,
   "lon": 2.174512,
   "bot": "https://t.me/guidabarcellona_bot?start=centro_storico",
-  "osm": "https://www.openstreetmap.org/relation/4127655"
+  "osm": "https://www.openstreetmap.org/relation/4127655",
+  "notion": "https://peach-lantana-ff4.notion.site/Centro-storico-Barri-G-tic-Born-Raval-3b3a1a405a9c81d7a63cd7efe9ed7596"
  },
  {
   "id": "cattedrale",
@@ -25,7 +26,8 @@
   "lat": 41.38393,
   "lon": 2.176554,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_cattedrale",
-  "osm": "https://www.openstreetmap.org/relation/3298476"
+  "osm": "https://www.openstreetmap.org/relation/3298476",
+  "notion": "https://peach-lantana-ff4.notion.site/Cattedrale-di-Barcellona-La-Seu-3d4a1a405a9c810c991bc0ca70b49f9e"
  },
  {
   "id": "placa_reial",
@@ -39,7 +41,8 @@
   "lat": 41.380099,
   "lon": 2.175261,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_placa_reial",
-  "osm": "https://www.openstreetmap.org/way/541071062"
+  "osm": "https://www.openstreetmap.org/way/541071062",
+  "notion": "https://peach-lantana-ff4.notion.site/Pla-a-Reial-3d4a1a405a9c8125869fd372563a5d6a"
  },
  {
   "id": "santa_maria_mar",
@@ -53,7 +56,8 @@
   "lat": 41.38378,
   "lon": 2.182006,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_santa_maria_mar",
-  "osm": "https://www.openstreetmap.org/way/51260215"
+  "osm": "https://www.openstreetmap.org/way/51260215",
+  "notion": "https://peach-lantana-ff4.notion.site/Santa-Maria-del-Mar-3d4a1a405a9c81c69b40cc228e22f1b9"
  },
  {
   "id": "palau_musica",
@@ -67,7 +71,8 @@
   "lat": 41.387584,
   "lon": 2.175232,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_palau_musica",
-  "osm": "https://www.openstreetmap.org/way/377216661"
+  "osm": "https://www.openstreetmap.org/way/377216661",
+  "notion": "https://peach-lantana-ff4.notion.site/Palau-de-la-M-sica-Catalana-3d4a1a405a9c81b483b3ed912dddb0d9"
  },
  {
   "id": "santa_caterina",
@@ -81,7 +86,8 @@
   "lat": 41.386136,
   "lon": 2.178505,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_mercat_santa_caterina",
-  "osm": "https://www.openstreetmap.org/way/31957078"
+  "osm": "https://www.openstreetmap.org/way/31957078",
+  "notion": "https://peach-lantana-ff4.notion.site/Mercat-de-Santa-Caterina-3d4a1a405a9c8146b36edb77c1c6bade"
  },
  {
   "id": "boqueria",
@@ -95,7 +101,8 @@
   "lat": 41.381736,
   "lon": 2.171552,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_mercat_boqueria",
-  "osm": "https://www.openstreetmap.org/relation/6288735"
+  "osm": "https://www.openstreetmap.org/relation/6288735",
+  "notion": "https://peach-lantana-ff4.notion.site/Mercat-de-la-Boqueria-3d4a1a405a9c81e8acf9d1e639a9f72e"
  },
  {
   "id": "placa_rei",
@@ -109,7 +116,8 @@
   "lat": 41.384156,
   "lon": 2.177395,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_placa_del_rei",
-  "osm": "https://www.openstreetmap.org/relation/18708616"
+  "osm": "https://www.openstreetmap.org/relation/18708616",
+  "notion": "https://peach-lantana-ff4.notion.site/Pla-a-del-Rei-MUHBA-3d4a1a405a9c81a89a66dffbffd46dc9"
  },
  {
   "id": "raval",
@@ -123,7 +131,8 @@
   "lat": 41.379848,
   "lon": 2.168682,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_raval",
-  "osm": "https://www.openstreetmap.org/relation/4127652"
+  "osm": "https://www.openstreetmap.org/relation/4127652",
+  "notion": "https://peach-lantana-ff4.notion.site/El-Raval-3d4a1a405a9c81ed8c5bc4f8edfe1fec"
  },
  {
   "id": "big_fun",
@@ -137,7 +146,8 @@
   "lat": 41.381782,
   "lon": 2.173299,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_big_fun_museum",
-  "osm": "https://www.openstreetmap.org/node/7003408120"
+  "osm": "https://www.openstreetmap.org/node/7003408120",
+  "notion": "https://peach-lantana-ff4.notion.site/Big-Fun-Museum-3d4a1a405a9c8164a00bd415a3ed5a69"
  },
  {
   "id": "sagrada",
@@ -151,7 +161,8 @@
   "lat": 41.403505,
   "lon": 2.174428,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_sagrada_familia",
-  "osm": "https://www.openstreetmap.org/relation/9194723"
+  "osm": "https://www.openstreetmap.org/relation/9194723",
+  "notion": "https://peach-lantana-ff4.notion.site/Sagrada-Fam-lia-3d4a1a405a9c8175958cd716bc674518"
  },
  {
   "id": "casa_batllo",
@@ -165,7 +176,8 @@
   "lat": 41.391545,
   "lon": 2.164696,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_casa_batllo",
-  "osm": "https://www.openstreetmap.org/relation/9427554"
+  "osm": "https://www.openstreetmap.org/relation/9427554",
+  "notion": "https://peach-lantana-ff4.notion.site/Casa-Batll-3d4a1a405a9c81098fc6fd7e7dcf59c9"
  },
  {
   "id": "casa_mila",
@@ -179,7 +191,8 @@
   "lat": 41.3954,
   "lon": 2.161762,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_casa_mila",
-  "osm": "https://www.openstreetmap.org/relation/8974896"
+  "osm": "https://www.openstreetmap.org/relation/8974896",
+  "notion": "https://peach-lantana-ff4.notion.site/Casa-Mil-La-Pedrera-3d4a1a405a9c811e8df8d54bc5574198"
  },
  {
   "id": "passeig_gracia",
@@ -193,7 +206,8 @@
   "lat": 41.390857,
   "lon": 2.166525,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_passeig_gracia",
-  "osm": "https://www.openstreetmap.org/way/908375883"
+  "osm": "https://www.openstreetmap.org/way/908375883",
+  "notion": "https://peach-lantana-ff4.notion.site/Passeig-de-Gr-cia-3d4a1a405a9c810682bce3b766c1f4ab"
  },
  {
   "id": "gracia",
@@ -207,7 +221,8 @@
   "lat": 41.403178,
   "lon": 2.157166,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_quartiere_gracia",
-  "osm": "https://www.openstreetmap.org/relation/4140187"
+  "osm": "https://www.openstreetmap.org/relation/4140187",
+  "notion": "https://peach-lantana-ff4.notion.site/Il-quartiere-di-Gr-cia-3d4a1a405a9c812ba375c76ea05d3c63"
  },
  {
   "id": "park_guell",
@@ -221,7 +236,8 @@
   "lat": 41.414235,
   "lon": 2.152458,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_park_guell",
-  "osm": "https://www.openstreetmap.org/way/66713401"
+  "osm": "https://www.openstreetmap.org/way/66713401",
+  "notion": "https://peach-lantana-ff4.notion.site/Park-G-ell-3d4a1a405a9c81f7bfcaf3349ef980c4"
  },
  {
   "id": "port_vell",
@@ -235,7 +251,8 @@
   "lat": 41.370187,
   "lon": 2.186903,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_port_vell",
-  "osm": "https://www.openstreetmap.org/way/618268543"
+  "osm": "https://www.openstreetmap.org/way/618268543",
+  "notion": "https://peach-lantana-ff4.notion.site/Port-Vell-3d4a1a405a9c81fb9ff4e02dc1f0f3b8"
  },
  {
   "id": "barceloneta",
@@ -249,7 +266,8 @@
   "lat": 41.380653,
   "lon": 2.189927,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_quartiere_barceloneta",
-  "osm": "https://www.openstreetmap.org/relation/4127656"
+  "osm": "https://www.openstreetmap.org/relation/4127656",
+  "notion": "https://peach-lantana-ff4.notion.site/Il-quartiere-Barceloneta-3d4a1a405a9c8163aecff02ea5838038"
  },
  {
   "id": "spiaggia_barceloneta",
@@ -263,7 +281,8 @@
   "lat": 41.379328,
   "lon": 2.192971,
   "bot": "https://t.me/guidabarcellona_bot?start=barceloneta_litoral",
-  "osm": "https://www.openstreetmap.org/relation/7333373"
+  "osm": "https://www.openstreetmap.org/relation/7333373",
+  "notion": "https://peach-lantana-ff4.notion.site/Barceloneta-litorale-3b3a1a405a9c8128b494c6d2c7ec83f8"
  },
  {
   "id": "port_olimpic",
@@ -277,7 +296,8 @@
   "lat": 41.38613,
   "lon": 2.199835,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_port_olimpic",
-  "osm": "https://www.openstreetmap.org/way/209586285"
+  "osm": "https://www.openstreetmap.org/way/209586285",
+  "notion": "https://peach-lantana-ff4.notion.site/Port-Ol-mpic-3d4a1a405a9c8194b080f9771ee8eb9b"
  },
  {
   "id": "hotel_vela",
@@ -291,7 +311,8 @@
   "lat": 41.368789,
   "lon": 2.190047,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_hotel_vela",
-  "osm": "https://www.openstreetmap.org/relation/21282017"
+  "osm": "https://www.openstreetmap.org/relation/21282017",
+  "notion": "https://peach-lantana-ff4.notion.site/W-Barcelona-Hotel-Vela-3d4a1a405a9c812d9126e09474ee5de5"
  },
  {
   "id": "aquarium",
@@ -305,7 +326,8 @@
   "lat": 41.376849,
   "lon": 2.184413,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_aquarium",
-  "osm": "https://www.openstreetmap.org/way/646565236"
+  "osm": "https://www.openstreetmap.org/way/646565236",
+  "notion": "https://peach-lantana-ff4.notion.site/Aqu-rium-de-Barcelona-3d4a1a405a9c81629ccfef9e7c570f8a"
  },
  {
   "id": "museu_maritim",
@@ -319,7 +341,8 @@
   "lat": 41.3755,
   "lon": 2.176427,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_museu_maritim",
-  "osm": "https://www.openstreetmap.org/node/14080861534"
+  "osm": "https://www.openstreetmap.org/node/14080861534",
+  "notion": "https://peach-lantana-ff4.notion.site/Museu-Mar-tim-3d4a1a405a9c81f1a404c6428fffa447"
  },
  {
   "id": "castell",
@@ -333,7 +356,8 @@
   "lat": 41.363376,
   "lon": 2.166144,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_castell_montjuic",
-  "osm": "https://www.openstreetmap.org/relation/19658818"
+  "osm": "https://www.openstreetmap.org/relation/19658818",
+  "notion": "https://peach-lantana-ff4.notion.site/Castell-de-Montju-c-3d4a1a405a9c815889e3c90253cb8e4a"
  },
  {
   "id": "mnac",
@@ -347,7 +371,8 @@
   "lat": 41.368602,
   "lon": 2.153462,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_mnac",
-  "osm": "https://www.openstreetmap.org/node/14075577293"
+  "osm": "https://www.openstreetmap.org/node/14075577293",
+  "notion": "https://peach-lantana-ff4.notion.site/MNAC-Museu-Nacional-d-Art-de-Catalunya-3d4a1a405a9c8158ba98d613c11f6683"
  },
  {
   "id": "miro",
@@ -361,7 +386,8 @@
   "lat": 41.368645,
   "lon": 2.160084,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_fundacio_miro",
-  "osm": "https://www.openstreetmap.org/relation/3347844"
+  "osm": "https://www.openstreetmap.org/relation/3347844",
+  "notion": "https://peach-lantana-ff4.notion.site/Fundaci-Joan-Mir-3d4a1a405a9c812e82f7e13e458a7eb5"
  },
  {
   "id": "poble_espanyol",
@@ -375,7 +401,8 @@
   "lat": 41.369553,
   "lon": 2.146762,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_poble_espanyol",
-  "osm": "https://www.openstreetmap.org/node/12694306278"
+  "osm": "https://www.openstreetmap.org/node/12694306278",
+  "notion": "https://peach-lantana-ff4.notion.site/Poble-Espanyol-3d4a1a405a9c81cf88f8cac6f8dd3a2c"
  },
  {
   "id": "font_magica",
@@ -389,7 +416,8 @@
   "lat": 41.371156,
   "lon": 2.151739,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_font_magica",
-  "osm": "https://www.openstreetmap.org/way/35816134"
+  "osm": "https://www.openstreetmap.org/way/35816134",
+  "notion": "https://peach-lantana-ff4.notion.site/Font-M-gica-de-Montju-c-3d4a1a405a9c81e1a91fd576da6a2fbe"
  },
  {
   "id": "rcde",
@@ -403,7 +431,8 @@
   "lat": 41.347857,
   "lon": 2.076458,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_rcde_stadium",
-  "osm": "https://www.openstreetmap.org/relation/9157615"
+  "osm": "https://www.openstreetmap.org/relation/9157615",
+  "notion": "https://peach-lantana-ff4.notion.site/RCDE-Stadium-RCD-Espanyol-3d4a1a405a9c816ab126d9b8226f7adf"
  },
  {
   "id": "camp_nou",
@@ -417,7 +446,8 @@
   "lat": 41.380881,
   "lon": 2.122818,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_camp_nou",
-  "osm": "https://www.openstreetmap.org/way/34607291"
+  "osm": "https://www.openstreetmap.org/way/34607291",
+  "notion": "https://peach-lantana-ff4.notion.site/Spotify-Camp-Nou-FC-Barcelona-3d4a1a405a9c817eb1c1c496746add35"
  },
  {
   "id": "deposito",
@@ -446,7 +476,8 @@
   "lat": 41.423153,
   "lon": 2.119944,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_tibidabo_parc",
-  "osm": "https://www.openstreetmap.org/way/106406397"
+  "osm": "https://www.openstreetmap.org/way/106406397",
+  "notion": "https://peach-lantana-ff4.notion.site/Parc-d-Atraccions-Tibidabo-3d4a1a405a9c81dbb871e3bb8f82f645"
  },
  {
   "id": "tibidabo_temple",
@@ -460,7 +491,8 @@
   "lat": 41.422064,
   "lon": 2.118879,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_tibidabo_temple",
-  "osm": "https://www.openstreetmap.org/way/486759610"
+  "osm": "https://www.openstreetmap.org/way/486759610",
+  "notion": "https://peach-lantana-ff4.notion.site/Temple-Expiatori-del-Sagrat-Cor-3d4a1a405a9c819cb9cde40bdbb955ec"
  },
  {
   "id": "cosmocaixa",
@@ -474,6 +506,7 @@
   "lat": 41.412453,
   "lon": 2.131665,
   "bot": "https://t.me/guidabarcellona_bot?start=approf_cosmocaixa",
-  "osm": "https://www.openstreetmap.org/way/248742203"
+  "osm": "https://www.openstreetmap.org/way/248742203",
+  "notion": "https://peach-lantana-ff4.notion.site/CosmoCaixa-Museo-della-Scienza-3d4a1a405a9c8195a9a7c176c7a6e7d2"
  }
 ]
