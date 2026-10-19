@@ -343,8 +343,8 @@
  {
   "id": "tibidabo_parc",
   "nome": "Parc d'Atraccions Tibidabo",
-  "tipo": "attrazione",
-  "icona": "🏛️",
+  "tipo": "divertimento",
+  "icona": "🎢",
   "zona": "Tibidabo",
   "lat": 41.423153,
   "lon": 2.119944,
