@@ -190,14 +190,25 @@ document.getElementById("vicino").onclick = () => {
 const tipiEl = document.getElementById("tipi");
 Object.entries(TIPI).forEach(([k, label]) => {
   const b = document.createElement("button");
-  b.className = "chip"; b.textContent = label; b.setAttribute("aria-pressed", "true");
-  b.onclick = () => { attivi.has(k) ? attivi.delete(k) : attivi.add(k);
-    b.setAttribute("aria-pressed", attivi.has(k)); disegna(); };
+  b.className = "chip"; b.textContent = label; b.setAttribute("aria-pressed", "true"); b.dataset.tipo = k;
+  // tocco su una categoria = solo quella; ritocco sulla stessa = di nuovo tutte
+  b.onclick = () => {
+    const solo = attivi.size === 1 && attivi.has(k);
+    attivi.clear();
+    (solo ? Object.keys(TIPI) : [k]).forEach(t => attivi.add(t));
+    tipiEl.querySelectorAll(".chip").forEach(c => c.setAttribute("aria-pressed", attivi.has(c.dataset.tipo)));
+    chiudi(); disegna(); inquadra();
+  };
   tipiEl.appendChild(b);
 });
+// zoom sui posti visibili (un posto solo: zoom fisso, fitBounds su un punto esagera)
+function inquadra() {
+  const v = posti.filter(visibile);
+  if (v.length === 1) map.setView([v[0].lat, v[0].lon], 15);
+  else if (v.length) map.fitBounds(v.map(p => [p.lat, p.lon]), {padding: [30, 30], maxZoom: 16});
+}
 const zonaEl = document.getElementById("zona");
-zonaEl.onchange = () => { zona = zonaEl.value; disegna();
-  const v = posti.filter(visibile); if (v.length) map.fitBounds(v.map(p => [p.lat, p.lon]), {padding: [30, 30]}); };
+zonaEl.onchange = () => { zona = zonaEl.value; disegna(); inquadra(); };
 
 fetch("posti.json").then(r => r.json()).then(d => {
   posti = d;
